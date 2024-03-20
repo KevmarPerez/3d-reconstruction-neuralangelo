@@ -1,5 +1,5 @@
 
-git clone https://github.com/NVlabs/neuralangelo.git
+git clone https://github.com/Mainamathenge/3d-neuralangelo.git
 cd ./neuralangelo/
 git submodule update --init --recursive # init colmap submodule
 
